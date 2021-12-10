@@ -10,4 +10,3 @@ jupyterlab_github
 jupyterlab_code_formatter
 black
 jupyterlab_tabnine
-jupyter-kite
